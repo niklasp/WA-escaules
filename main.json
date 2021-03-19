@@ -409,7 +409,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"www.2n40.de\/dl\/speeddating.html"
+                 "value":"https:\/\/www.2n40.de\/dl\/speeddating.html"
                 }],
          "type":"tilelayer",
          "visible":true,
