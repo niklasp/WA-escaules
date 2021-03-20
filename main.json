@@ -55,7 +55,7 @@
                 {
                  "name":"playAudioLoop",
                  "type":"string",
-                 "value":"http:\/\/trace.dnbradio.com:8000\/dnbradio_main.mp3"
+                 "value":"https:\/\/play.wa.17q.de\/dnbradio\/dnbradio_main.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
