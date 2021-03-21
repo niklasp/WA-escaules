@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#floorLayer"
+                 "value":"terazzenhaus.json#startpool"
                 }],
          "type":"tilelayer",
          "visible":true,
